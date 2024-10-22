@@ -4,6 +4,7 @@ With the development of technology, mobile phones are an indispensable part of h
 
 The  project aims to predict the price category of mobile phones based on various features. By utilizing machine learning algorithms, this project provides insights into how different specifications influence mobile phone pricing, enabling users to make informed purchasing decisions.
 
-Technologies Used
+# Technologies Used
 Programming Language: Python
 Libraries: Pandas, NumPy, Scikit-Learn, Matplotlib, and Seaborn for data analysis and visualization.
+Algorithm : KNN , Logistic Regression
